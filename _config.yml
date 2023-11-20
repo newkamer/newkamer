@@ -1,16 +1,24 @@
 actors:
+  YutaYoshida:
+    image_url: /images/actors/yutatatatata.jpeg
+    name: YutaYoshida
+    url: https://twitter.com/yutatatatata
+  akiko:
+    image_url: /images/actors/hoge.jpg
+    name: akiko
+    url: 
+  KojiSato:
+    image_url: /images/actors/KojiSato.jpg
+    name: 佐藤光司
+    url: https://www.facebook.com/profile.php?id=100013102029008
   alice:
     image_url: /images/actors/alice.png
     name: alice
     url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+author: NewKamer.fm
+description: 鎌倉・湘南界隈のユニークな人たちと気ままにおしゃべりするローカルPodcastです。
+description_long: 鎌倉・湘南界隈のユニークな人たちと気ままにおしゃべりするローカルPodcastです。いつか鎌倉にクラフトビールxPodcastのお店を開くことが目標！
+email: newkamer.fm@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +28,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
-itunes_podcast_url:
-keywords: comma,separated,keywords
+hashtag: newkamerfm
+itunes_podcast_url: 
+keywords: 鎌倉, 湘南, Podcast
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: NewKamer.fm
+url: http://newkamer.fm

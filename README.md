@@ -1,3 +1,3 @@
-# Yattecast
+# newkamer.fm
 
-https://r7kamura.github.io/yattecast/
+newkamer.fmの本体サイト
