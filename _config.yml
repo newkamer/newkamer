@@ -11,6 +11,10 @@ actors:
     image_url: /images/actors/KojiSato.jpg
     name: 佐藤光司
     url: https://www.facebook.com/profile.php?id=100013102029008
+  UtsunomiyaMasataka:
+    image_url: /images/actors/UtsunomiyaMasataka.png
+    name: 宇都宮雅敬
+    url: https://www.facebook.com/masataka.utsunomiya.9
   alice:
     image_url: /images/actors/alice.png
     name: alice
