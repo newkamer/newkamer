@@ -3,9 +3,9 @@ actors:
     image_url: /images/actors/yutatatatata.jpeg
     name: YutaYoshida
     url: https://twitter.com/yutatatatata
-  akiko:
+  AkikoSuyari:
     image_url: /images/actors/alice.png
-    name: akiko
+    name: AkikoSuyari
     url: 
   KojiSato:
     image_url: /images/actors/KojiSato.jpg
@@ -15,6 +15,10 @@ actors:
     image_url: /images/actors/UtsunomiyaMasataka.png
     name: 宇都宮雅敬
     url: https://www.facebook.com/masataka.utsunomiya.9
+  KanakoAke:
+    image_url: /images/actors/KanakoAke.jpg
+    name: 安家叶子
+    url: https://www.facebook.com/profile.php?id=100004529610782
   alice:
     image_url: /images/actors/alice.png
     name: alice
