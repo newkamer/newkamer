@@ -24,8 +24,8 @@ actors:
     name: alice
     url: http://sns.example.com/alice
 author: NewKamer.fm
-description: 鎌倉・湘南界隈のユニークな人たちと気ままにおしゃべりするローカルPodcastです
-description_long: 鎌倉・湘南界隈のユニークな人たちと気ままにおしゃべりするローカルPodcastです。いつか鎌倉にクラフトビールxPodcastのお店を開くことが目標！
+description: 「この面白い人たちを紹介したいぜッ！in鎌倉・湘南界隈」がモチベーションのローカルポッドキャスト番組です🌊
+description_long: 鎌倉・湘南界隈のユニークな人たちと気ままにおしゃべりするローカルポッドキャストです。いつか湘南にクラフトビールxPodcastのお店を開くことが目標！
 email: newkamer.fm@gmail.com
 exclude:
   - docker
