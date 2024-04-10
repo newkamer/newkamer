@@ -19,13 +19,17 @@ actors:
     image_url: /images/actors/KanakoAke.jpg
     name: 安家叶子
     url: https://www.facebook.com/profile.php?id=100004529610782
+  HirokiYoshida:
+    image_url: /images/actors/alice.jpg
+    name: 吉田浩気
+    url: https://www.instagram.com/pain_cailloux/
   alice:
     image_url: /images/actors/alice.png
     name: alice
     url: http://sns.example.com/alice
 author: NewKamer.fm
 description: 「この街の面白い人たちを紹介したいぜッ！in鎌倉・湘南界隈」がモチベーションのローカルポッドキャスト番組です🌊
-description_long: 鎌倉・湘南界隈のユニークな人たちと気ままにおしゃべりするローカルポッドキャストです。いつか湘南にクラフトビールxPodcastのお店を開くことが目標！
+description_long: 鎌倉・湘南界隈のユニークな人たちと気ままにおしゃべりするローカルポッドキャストです。
 email: newkamer.fm@gmail.com
 exclude:
   - docker
